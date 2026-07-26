@@ -53,7 +53,7 @@
     "@typescript-eslint/typescript-estree": "^7.1.0",
     "babel-eslint": "^10.1.0",
     "browser-sync": "^3.0.2",
-    "esbuild": "^0.20.1",
+    "esbuild": "^0.25.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",
